@@ -1,3 +1,4 @@
+package CalculadoraIdade;
 public class CalculadoraIdade {
     public static void main(String[] args) { // Correção aqui, deve ser String[]
         int anoAtual = 2025;
